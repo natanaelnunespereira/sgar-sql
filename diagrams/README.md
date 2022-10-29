@@ -6,12 +6,12 @@ Modelagem de dados para criação de um banco de dados funcional, capaz de contr
 
 ## Modelagem conceitual
 
-![modelo-conceitual](diagramas/der.png)
+![modelo-conceitual](der.png)
 
 ## Modelo lógico
 
-![modelo-logico](diagramas/modelo-logico.png)
+![modelo-logico](modelo-logico.png)
 
 ## Modelo físico (DER físico)
 
-![modelo-conceitual](diagramas/der-fisico.png)
+![modelo-conceitual](der-fisico.png)
