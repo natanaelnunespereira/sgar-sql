@@ -7,15 +7,15 @@ Sistema de Gerenciamento e Automação de Refeitório
 ### Funcionais
 
 - Cadastro de usuários
-- - Cadastro de usuários que irão operar o sistema.
+  - Cadastro de usuários que irão operar o sistema.
 - Cadastro de entrantes
-- - Cadastro de entrantes ao refeitório e suas permissões.
+  - Cadastro de entrantes ao refeitório e suas permissões.
 - Emissão de passes
-- - Gerar passes para externos e demais servidores.
+  - Gerar passes para externos e demais servidores.
 - Emissão de relatórios
-- - O sistema será capaz de exportar relatórios úteis quanto ao fluxo de entrantes.
+  - O sistema será capaz de exportar relatórios úteis quanto ao fluxo de entrantes.
 - Controle de entrantes
-- - O sistema será capaz de controlar os entrantes e sua devida autenticação, de acordo com sua patente e suas devidas permissões.
+  - O sistema será capaz de controlar os entrantes e sua devida autenticação, de acordo com sua patente e suas devidas permissões.
 
 ### Não-funcionais
 
