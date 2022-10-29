@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento e Automação de Refeitório
 
-Sistema de Gerenciamento e Automação de Refeitório
+Esta documentação apresenta o desenvolvimento de um banco de dados para o Sistema de Gerenciamento e Automação de Refeitório.
 
 ## Regras de negócio
 
